@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Jacob 👋
+Data Science & Computer Science student at the University of Minnesota. 
+I build projects that combine software engineering and data analytics to solve real-world problems.
+Python - Java - SQL - Automation
 
-<!--
-**jsandau/jsandau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Featured projects
+- [https://github.com/jsandau/GroceryBot] *Python - Flask - openpyxl - GroupMe Bots API - ngrok  *
+A Python/Flask GroupMe bot that logs grocery requests to Excel, streamlining weekly ordering for my college fraternity. It listens for commands like !request milk, records requests with timestamps, and responds automatically to greetings. 
+## 📊 My Stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | jsandau@sandau.com
