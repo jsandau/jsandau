@@ -1,5 +1,5 @@
 # Hi, I'm Jacob 👋
-**Data Science & Computer Science | Junior @ The University of Minnesota.**  
+**Data Science BA & Computer Science Minor | Junior @ The University of Minnesota.**  
 ##
 Python · Java · SQL · Automation  
 
