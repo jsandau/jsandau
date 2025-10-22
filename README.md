@@ -9,4 +9,4 @@ A Python/Flask GroupMe bot that logs grocery requests to Excel, streamlining wee
 ## 📊 My Stack
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | jsandau@sandau.com
+[LinkedIn](https://www.linkedin.com/in/jacob-sandau-204743233/) | jsandau@sandau.com
