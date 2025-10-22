@@ -1,6 +1,7 @@
 # Hi, I'm Jacob 👋
 Data Science & Computer Science student at the University of Minnesota. 
 I build projects that combine software engineering and data analytics to solve real-world problems.  
+##
 Python * Java * SQL * Automation  
 
 ## 📂 Featured projects
