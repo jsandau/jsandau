@@ -5,13 +5,23 @@ Python · Java · SQL · Automation
 ---
 
 ## 📂 Featured projects
-- [https://github.com/jsandau/GroceryBot]   
-**Python - Flask - openpyxl - GroupMe Bots API - ngrok**  
-*A Python/Flask GroupMe bot that logs grocery requests to Excel, streamlining weekly ordering for my college fraternity. It listens for commands like !request milk, records requests with timestamps, and responds automatically to greetings.*
+- [https://github.com/jsandau/GroceryBot2.0]   
+**Python - Flask - PostgreSQL - Tableau - GroupMe Bots API - ngrok**
+*A lightweight Python + Flask application that tracks weekly grocery requests, stores them in a SQL database, and generates forecasts for inventory and ordering. Data is exported to CSV for visualization in Tableau dashboards.*
 
 ---
 
-## 📊 My Stack
+## 📊 My skills
+
+**Programming & Automation:** Python (Flask, API automation), Java, SQL, pandas, numpy, scikit-learn   
+
+**Web & Backend:** Flask web apps, PostgreSQL, SQLAlchemy   
+
+**Data & Analytics:** Data cleaning, aggregation, forecasting, CSV/Excel manipulation, Tableau dashboards   
+
+**Tools & Workflow:** Git/GitHub, ngrok, Visual Studio Code, IntelliJ IDEA   
+
+**Soft Skills:** Problem-solving, project management, cross-functional collaboration   
 
 ---
 
