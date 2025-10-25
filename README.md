@@ -11,7 +11,7 @@ Python · Java · SQL · Automation
 
 - [https://github.com/jsandau/grocery-analysis-dashboard]    
 **Python - SQL - Tableau - Pandas**     
-*A data analysis project that processes Costco grocery order data to uncover weekly spending trends, forecast item demand, and visualize category performance in Tableau. Designed to support smarter budgeting and inventory planning through automated data cleaning and insightful dashboards.*
+*A data analysis project built for a 40+ live in fraternity house to track and forecast weekly Costco grocery spending. The project processes order data to identify top items, spending trends, and category performance, exporting insights to Tableau dashboards for clearer budgeting and inventory planning.*
 ---
 
 ## 📊 My skills
@@ -23,8 +23,6 @@ Python · Java · SQL · Automation
 **Data & Analytics:** Data cleaning, aggregation, forecasting, CSV/Excel manipulation, Tableau dashboards   
 
 **Tools & Workflow:** Git/GitHub, ngrok, Visual Studio Code, IntelliJ IDEA   
-
-**Soft Skills:** Problem-solving, project management, cross-functional collaboration   
 
 ---
 
