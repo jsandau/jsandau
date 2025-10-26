@@ -7,7 +7,7 @@ Python · Java · SQL · Automation
 ## 📂 Featured projects
 - [GroceryBot2.0](https://github.com/jsandau/GroceryBot2.0)   
 **Python - Flask - PostgreSQL - Tableau - GroupMe Bots API - ngrok**    
-*A Python + Flask GroupMe bot that collects weekly grocery requests from a fraternity house, stores them in a PostgreSQL database, and predicts next week’s inventory using linear regression. Data is exported to CSV for visualization in Tableau dashboards, streamlining ordering and improving accuracy.*
+*A Python + Flask GroupMe bot that collects weekly grocery requests from a fraternity house, stores them in a PostgreSQL database, and predicts next week’s requests using linear regression. Data is exported to CSV for visualization in Tableau dashboards, streamlining ordering and improving accuracy.*
 
 - [grocery-analysis-dashboard](https://github.com/jsandau/grocery-analysis-dashboard)    
 **Python - SQL - Tableau - Pandas**     
