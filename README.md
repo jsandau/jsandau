@@ -1,4 +1,4 @@
-# Hi, I'm Jacob 👋
+# Hi, I'm Jacob
 **Data Science BA & Computer Science Minor | Junior @ The University of Minnesota.**  
 Python · Java · SQL · Automation  
 
