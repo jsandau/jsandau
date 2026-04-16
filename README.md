@@ -1,7 +1,7 @@
 # Hi, I'm Jacob
 **Data Science BA & Computer Science Minor | Junior @ The University of Minnesota.**  
 Python · Java · SQL · Automation  
-
+[View my Portfolio](https://jsandau.github.io/portfolio/)
 ---
 
 ## Featured projects
