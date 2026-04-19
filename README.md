@@ -7,7 +7,7 @@ Python · Java · SQL · Automation
 ---
 
 ## Featured projects
-- [Ai-site-audit](https://github.com/jsandau/ai-site-audit)    
+- [ai-site-audit](https://github.com/jsandau/ai-site-audit)    
 **Next.js - TypeScript - PostgreSQL - Prisma - Groq API (LLaMA 3.3) - HubSpot API - Puppeteer - claude code**   
 A full-stack AI lead generation system that audits websites in under 60 seconds, scores them across SEO, UX, conversion, performance, and content, and converts visitors into qualified leads. Built with async job processing and polling to handle long-running AI + scraping tasks, persists results in PostgreSQL, and automatically creates contacts and deals in HubSpot with audit context, enabling sales teams to act on high-intent leads immediately.
 
