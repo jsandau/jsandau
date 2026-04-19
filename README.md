@@ -7,6 +7,10 @@ Python · Java · SQL · Automation
 ---
 
 ## Featured projects
+- [Ai-site-audit](https://github.com/jsandau/ai-site-audit)
+**Next.js - TypeScript - PostgreSQL - Prisma - Groq API (LLaMA 3.3) - HubSpot API - Puppeteer - claude code**
+A full-stack AI lead generation system that audits websites in under 60 seconds, scores them across SEO, UX, conversion, performance, and content, and converts visitors into qualified leads. Built with async job processing and polling to handle long-running AI + scraping tasks, persists results in PostgreSQL, and automatically creates contacts and deals in HubSpot with audit context, enabling sales teams to act on high-intent leads immediately.
+
 - [GroceryBot2.0](https://github.com/jsandau/GroceryBot2.0)   
 **Python - Flask - PostgreSQL - Tableau - GroupMe Bots API - ngrok**    
 *A Python + Flask GroupMe bot that collects weekly grocery requests from a fraternity house, stores them in a PostgreSQL database, and predicts next week’s requests using linear regression. Data is exported to CSV for visualization in Tableau dashboards, streamlining ordering and improving accuracy.*
