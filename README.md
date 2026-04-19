@@ -1,6 +1,6 @@
 # Hi, I'm Jacob
 **Data Science BA & Computer Science Minor | Junior @ The University of Minnesota.**  
-Python · Java · SQL · Automation  
+Python · Java · SQL · Automation 
 
 [View my Portfolio](https://jsandau.github.io/portfolio/)
 
@@ -8,7 +8,7 @@ Python · Java · SQL · Automation
 
 ## Featured projects
 - [Ai-site-audit](https://github.com/jsandau/ai-site-audit)
-**Next.js - TypeScript - PostgreSQL - Prisma - Groq API (LLaMA 3.3) - HubSpot API - Puppeteer - claude code**
+**Next.js - TypeScript - PostgreSQL - Prisma - Groq API (LLaMA 3.3) - HubSpot API - Puppeteer - claude code**   
 A full-stack AI lead generation system that audits websites in under 60 seconds, scores them across SEO, UX, conversion, performance, and content, and converts visitors into qualified leads. Built with async job processing and polling to handle long-running AI + scraping tasks, persists results in PostgreSQL, and automatically creates contacts and deals in HubSpot with audit context, enabling sales teams to act on high-intent leads immediately.
 
 - [GroceryBot2.0](https://github.com/jsandau/GroceryBot2.0)   
@@ -22,13 +22,17 @@ A full-stack AI lead generation system that audits websites in under 60 seconds,
 
 ## My skills
 
-**Programming & Automation:** Python (Flask, API automation), Java, SQL, pandas, numpy, scikit-learn   
+**Programming:** Python, TypeScript, Java, SQL
 
-**Web & Backend:** Flask web apps, PostgreSQL, SQLAlchemy   
+**Web & Backend:** Next.js (App Router), Node.js API routes, Flask, REST APIs, async processing patterns
 
-**Data & Analytics:** Data cleaning, aggregation, forecasting, CSV/Excel manipulation, Tableau dashboards   
+**Databases & ORM:** PostgreSQL, Prisma, SQLAlchemy
 
-**Tools & Workflow:** Git/GitHub, ngrok, Visual Studio Code, IntelliJ IDEA   
+**Data & Analytics:** pandas, numpy, scikit-learn, data cleaning, aggregation, basic forecasting, Tableau
+
+**APIs & Integrations:** Groq (LLaMA 3.3), HubSpot API, GroupMe Bots API
+
+**Tools & Workflow:** Git/GitHub, VS Code, IntelliJ IDEA, ngrok
 
 ---
 
