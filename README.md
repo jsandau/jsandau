@@ -1,6 +1,6 @@
 # Hi, I'm Jacob
 ### I build systems at the intersection of data, AI, and GTM engineering.    
-**Data Science BA & Computer Science Minor | Junior @ The University of Minnesota.** 
+**University of Minnesota, Twin Cities — B.A. Data Science, Minor Computer Science** 
 
 *Python · Java · SQL · Automation*
 
