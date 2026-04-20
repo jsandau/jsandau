@@ -2,8 +2,6 @@
 ### I build systems at the intersection of data, AI, and GTM engineering.    
 **University of Minnesota, Twin Cities — B.A. Data Science, Minor Computer Science** 
 
-*Python · Java · SQL · Automation*
-
 [View my Portfolio](https://jsandau.github.io/portfolio/)
 
 ---
